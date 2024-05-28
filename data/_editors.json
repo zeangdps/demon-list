@@ -1,13 +1,13 @@
 [
     {
-        "role": "owner",
-        "name": "List Owner",
+        "role": "Owner",
+        "name": "ChatGPT",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "legithumanperson",
+        "link": "https://www.youtube.com/channel/UCIlbMg8rKew3PGDGK5BIthw"
     },
     {
         "role": "helper",
