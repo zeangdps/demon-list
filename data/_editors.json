@@ -2,18 +2,14 @@
     {
         "role": "Owner",
         "name": "ChatGPT",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": ""
     },
     {
         "role": "admin",
         "name": "legithumanperson"
-        "link": "https://www.youtube.com/channel/UCIlbMg8rKew3PGDGK5BIthw"
+        "link", "https://www.youtube.com/channel/UCIlbMg8rKew3PGDGK5BIthw"
     },
-    {
-        "role": "admin",
-        "name": "zonkers",
-        "link": "https://www.youtube.com/@zonkers84"
-    },
+
     {
         "role": "helper",
         "name": "zonkers",
