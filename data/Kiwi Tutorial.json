@@ -9,10 +9,28 @@
     "password": "Free",
     "records": [
         {
-            "user": "",
-            "link": "",
-            "percent": "",
-            "hz": ""
+            "user": "LHPerson",
+            "link": "https://youtu.be/ZhlIxHZfMwo",
+            "percent": "100",
+            "hz": "360"
+        },
+        {
+            "user": "zonkers",
+            "link": "https://youtu.be/xPW9yfgVjS0",
+            "percent": "100",
+            "hz": "240"
+        },
+        {
+            "user": "comicisdead",
+            "link": "https://youtu.be/TwwqIEeaaXk?si=B4RDbJMabz1fTBkY",
+            "percent": "100",
+            "hz": "60"
+        },
+        {
+            "user": "Artificial Bagel",
+            "link": "https://youtu.be/UlWOu8D_LJY",
+            "percent": "100",
+            "hz": "60"
         }
     ]
 }
