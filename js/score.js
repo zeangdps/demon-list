@@ -5,9 +5,9 @@ const scale = 3;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
- * @param {Number} rank 1
- * @param {Number} percent 100
- * @param {Number} minPercent 100
+ * @param {Number} rank 
+ * @param {Number} percent Maximum percentage required
+ * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
