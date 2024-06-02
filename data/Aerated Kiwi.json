@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free",
     "records": [
+        {
+            "user": "zonkers",
+            "link": "https://youtu.be/mYIsO6HESEc",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
 
