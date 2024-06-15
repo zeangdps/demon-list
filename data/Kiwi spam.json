@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Formora",
+            "link": "https://www.youtube.com/watch?v=c9tRtRsIuYo",
+            "percent": "100",
+            "hz": "60"
+        }
     ]
 }
 
