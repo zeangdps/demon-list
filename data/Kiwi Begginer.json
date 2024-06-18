@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Aephyl",
+            "link": "https://youtu.be/_hRoqUEHxnU",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
 
