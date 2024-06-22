@@ -13,6 +13,36 @@
             "link": "https://youtu.be/QYKqJWm7Tmo",
             "percent": "100",
             "hz": "240"
+        },
+        {
+            "user": "jace",
+            "link": "https://www.youtube.com/watch?v=ewZA-fVOL5E",
+            "percent": "100",
+            "hz": "495"
+        },
+        {
+            "user": "Water",
+            "link": "https://youtu.be/DmQTxzFUdGM",
+            "percent": "100",
+            "hz": "60"
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=CHt1zgXs5bs",
+            "percent": "100",
+            "hz": "60"
+        },
+        {
+            "user": "ArtificialBagel",
+            "link": "https://youtu.be/wFwGkBQTi4U",
+            "percent": "100",
+            "hz": "60"
+        },
+        {
+            "user": "Random",
+            "link": "https://www.youtube.com/watch?v=-BHjWd8TTwA",
+            "percent": "100",
+            "hz": "240"
         }
     ]
 }

@@ -8,5 +8,18 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "jace",
+            "link": "https://www.youtube.com/watch?v=ewZA-fVOL5E",
+            "percent": "100",
+            "hz": "495"
+        },
+        {
+            "user": "Th3Name",
+            "link": "https://youtu.be/vN7hJX0SI10?si=jSTXTKwDp2wjWtxt",
+            "percent": "100",
+            "hz": "60"
+        }
     ]
+    
 }
