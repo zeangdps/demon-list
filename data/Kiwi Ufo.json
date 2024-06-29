@@ -43,6 +43,12 @@
             "link": "https://youtu.be/vN7hJX0SI10?si=jSTXTKwDp2wjWtxt",
             "percent": "100",
             "hz": "60"
+        },
+        {
+            "user": "Random",
+            "link": "https://www.youtube.com/watch?v=Tl0cCRumJsI",
+            "percent": "100",
+            "hz": "240"
         }
     ]
 }
