@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=1JSVYvsC2X8",
             "percent": "100",
             "hz": "60"
+        },
+        {
+            "user": "Random",
+            "link": "https://www.youtube.com/watch?v=tlqAFa0QLTI",
+            "percent": "100",
+            "hz": "240"
+        },
+        {
+            "user": "Quantanium",
+            "link": "https://youtu.be/pxS67ZFI-mo",
+            "percent": "100",
+            "hz": "360"
         }
     ]
 }
