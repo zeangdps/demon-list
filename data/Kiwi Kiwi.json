@@ -39,7 +39,7 @@
             "hz": "60"
         },
         {
-            "user": "Aephyl",
+            "user": "Aephyll",
             "link": "https://youtu.be/Ak1YMkL68rU",
             "percent": "100",
             "hz": "240"
@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=BCI9q0SFE70",
             "percent": "100",
             "hz": "240"
+        },
+        {
+            "user": "zLineage",
+            "link": "https://www.youtube.com/watch?v=d88cYGPN_rc",
+            "percent": "100",
+            "hz": "360"
         }
     ]
 }
