@@ -1,0 +1,18 @@
+{
+    "id": 106697779,
+    "name": "kiwi ez spam",
+    "author": "chiken11",
+    "creators": ["chiken11"],
+    "verifier": "chiken11",
+    "verification": "https://www.youtube.com/watch?v=7JXo_u3yaoA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://youtu.be/z44AIlzLGeo?si=eH2WnzBIFcri6FS3",
+            "percent": "100",
+            "hz": "120"
+        }
+    ]
+}
