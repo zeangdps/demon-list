@@ -1,0 +1,21 @@
+{
+    "id": 108541110,
+    "name": "Last Kiwi",
+    "author": "thereillobim",
+    "creators": ["thereillobim"],
+    "verifier": "thereillobim",
+    "verification": "https://www.youtube.com/watch?v=Byroq32nBOw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=s1j2fiOssB4",
+            "percent": "100",
+            "hz": "120"
+        }
+
+    ]
+}
+
+

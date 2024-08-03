@@ -1,0 +1,18 @@
+{
+    "id": 108488247,
+    "name": "kiwi hard",
+    "author": "therealfive",
+    "creators": ["therealfive"],
+    "verifier": "therealfive",
+    "verification": "https://youtu.be/QBab8X_pcn8?si=tvViPpWDubbJp4z7",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=s1j2fiOssB4",
+            "percent": "100",
+            "hz": "120"
+        }
+    ]
+}

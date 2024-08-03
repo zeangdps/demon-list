@@ -1,0 +1,20 @@
+{
+    "id": 108468950,
+    "name": "the kiwi drink",
+    "author": "therealfive",
+    "creators": ["therealfive"],
+    "verifier": "therealfive",
+    "verification": "https://youtu.be/SPZL0dlRln8?si=h-qBPuL0g-LhL1Lw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=s1j2fiOssB4",
+            "percent": "100",
+            "hz": "120"
+        }
+    ]
+}
+
+

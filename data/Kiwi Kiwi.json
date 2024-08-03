@@ -85,6 +85,18 @@
             "link": "https://www.youtube.com/watch?v=d88cYGPN_rc",
             "percent": "100",
             "hz": "360"
+        },
+        {
+            "user": "chiken11",
+            "link": "https://youtu.be/B4wKOzl-d4g",
+            "percent": "100",
+            "hz": "240"
+        },
+        {
+            "user": "therealfive",
+            "link": "https://youtu.be/G6ELONjtuiU?si=08xfPP9x0zBBj5YT",
+            "percent": "100",
+            "hz": "60"
         }
     ]
 }
