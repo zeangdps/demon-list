@@ -1,18 +1,12 @@
 {
-    "id": 108244076,
-    "name": "Kiwi Vendetta",
+    "id": 108250287,
+    "name": "Kiwi Revengance",
     "author": "JoeBeSlow",
     "creators": ["JoeBeSlow"],
     "verifier": "JoeBeSlow",
-    "verification": "https://youtu.be/qZJbhKBHXHs?si=9goqv-6pqHjdO5oP",
+    "verification": "https://youtu.be/SqtwBDvv-IU?si=E4k16kglzqOuiRu5",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Random",
-            "link": "https://www.youtube.com/watch?v=C67OhAikfAg",
-            "percent": "100",
-            "hz": "240"
-        }
     ]
 }
