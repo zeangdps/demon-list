@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Random",
+            "link": "https://youtu.be/NAGSzcOecrs",
+            "percent": "100",
+            "hz": "240"
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://youtu.be/TLmvSVssJeY?si=kcerc7c6fa9v3sOP",
+            "percent": "100",
+            "hz": "120" 
+        }
     ]
 }
