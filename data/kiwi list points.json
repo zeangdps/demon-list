@@ -8,12 +8,18 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-{
-"user": "leaf",
-"link": "https://youtu.be/ALtQmLHBi6Q?si=XE-e6Ji92oJgiGkN",
-"percent": "100",
-"hz": "360"
-}
+        {
+            "user": "leaf",
+            "link": "https://youtu.be/ALtQmLHBi6Q?si=XE-e6Ji92oJgiGkN",
+            "percent": "100",
+            "hz": "360"
+        },
+        {
+            "user": "CatsAtGD54",
+            "link": "https://youtu.be/TNOJJa8txcA",
+            "percent": "100",
+            "hz": "480"
+        }
 
     ]
 }

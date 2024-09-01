@@ -140,12 +140,18 @@
             "percent": "100",
             "hz": "60"
         },
-{
-"user": "therealfive",
-"link": "https://youtu.be/p96v0fMDMy8?si=AqMB-SSYcAAbaK3k",
-"percent": "100",
-"hz": "60"
-}
+        {
+            "user": "therealfive",
+            "link": "https://youtu.be/p96v0fMDMy8?si=AqMB-SSYcAAbaK3k",
+            "percent": "100",
+            "hz": "60"
+        },
+        {
+            "user": "CatsAtGD54",
+            "link": "https://youtu.be/5QvIYeZ8iIU",
+            "percent": "100",
+            "hz": "480"
+        }
 
     ]
 }

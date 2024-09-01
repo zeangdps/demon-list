@@ -13,12 +13,18 @@
             "link": "https://www.youtube.com/watch?v=s1j2fiOssB4",
             "percent": "100",
             "hz": "120"
+        },        
+        {
+            "user": "chiken11",
+            "link": "https://youtu.be/-1VWoUnIzaY",
+            "percent": "100",
+            "hz": "240"
         },
-{
-"user": "chiken11",
-"link": "https://youtu.be/-1VWoUnIzaY",
-"percent": "100",
-"hz": "240"
-}
+        {
+            "user": "CatsAtGD54",
+            "link": "https://youtu.be/H5f8Wx7qY0c",
+            "percent": "100",
+            "hz": "480"
+        }
     ]
 }
