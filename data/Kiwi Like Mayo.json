@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "farbe",
+            "link": "https://youtu.be/olfE8lEmbsU",
+            "percent": "100",
+            "hz": "120"
+        }
     ]
 }
 
