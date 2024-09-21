@@ -51,10 +51,16 @@
             "hz": "60"
         },
         {
-            "user": "Alcovee ",
+            "user": "Alcovee",
             "link": "https://www.youtube.com/watch?v=Qi5jebh8NtY",
             "percent": "100",
             "hz": "240"
+        },
+        {
+            "user": "thereillobim",
+            "link": "https://www.youtube.com/watch?v=6crc3gOF18U",
+            "percent": "100",
+            "hz": "120"
         }
     ]
 }
