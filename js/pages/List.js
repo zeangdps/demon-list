@@ -44,7 +44,7 @@ export default {
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p>{{ score(level, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
@@ -138,7 +138,22 @@ export default {
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+			const rank = this.selected + 1
+			const [level, err] = this.list[this.selected] || [];
+			if (!level) {
+				return null;
+			}
+
+			// Add rank to level object
+			level.rank = rank;
+
+			// If the level has an error, return null
+			if (err) {
+				return null;
+			}
+
+			// Return the level object
+			return level;
         },
         video() {
             if (!this.level.showcase) {

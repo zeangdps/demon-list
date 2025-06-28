@@ -10,7 +10,9 @@ const scale = 3;
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
-export function score(rank, percent, minPercent) {
+export function score(level, percent, minPercent, user = null) {
+	const rank = level.rank
+	console.log(level)
     if (rank > 150) {
         return 0;
     }
@@ -24,10 +26,29 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    // let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
+    //     ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+	let score = 0
+	
+	if (rank === 1) {
+		score = 250;
+		console.log(score);
+	} else if (rank >= 2 && rank <= 5) {
+		score = 100;
+	} else if (rank >= 6 && rank <= 10) {
+		score = 50;
+	} else if (rank >= 11) {
+		score = 25;
+	}
 
-    score = Math.max(0, score);
+	if (user && (user === level.author || level.creators.some((c) => c === user)) && user === level.verifier) {
+		if (rank == 1) {
+			score += 100
+		} else {
+			score += 50
+		}
+	}
+
 
     if (percent != 100) {
         return round(score - score / 3);

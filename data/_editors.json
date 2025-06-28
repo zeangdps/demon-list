@@ -4,24 +4,10 @@
         "name": "NeoGMD",
         "link": "https://www.youtube.com/neogmd"
     },
-    {
-        "role": "admin",
-        "name": "NeoGMD",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "NeoGMD",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "NeoGMD",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
+
     {
         "role": "dev",
-        "name": "NeoGMD",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "doom",
+        "link": "https://www.youtube.com/channel/UCgliDJtMl7UxAB_GJCrZTKw/"
     }
 ]
