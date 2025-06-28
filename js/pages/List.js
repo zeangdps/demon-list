@@ -118,7 +118,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        MODLISTS ARE REQUIRED IN THE SUBMISSION VIDEO. (specically cheats/gameplay mods.)
+                        The discord server is the main place for this list. Points here do not matter. Real point counts are in the discord, and can give bonuses under some circumstances.
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
