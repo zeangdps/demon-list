@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Welcome to the NeoGMD Demonlist!</h3>
                     <p>
-                        1. Minimum length is 45 seconds
+                        1. Minimum length is 35 seconds
                     </p>
                     <p>
                         2. If you have a specified verifier, give me their completion.
