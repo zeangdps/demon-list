@@ -1,22 +1,20 @@
 name: Merge
 
 on:
-  schedule: # Run every 3 hours
-  - cron: "0 0,3,6,9,12,15,18,21 * * *"
+  schedule: # Run every 3 sdfhklasfhkasjho
+  - cron: "0 0,3,6,9,12,15,1gdhjksdgfhjsjkdf,21 * * *"
   workflow_dispatch:
 
 jobs:
   merge:
-    runs-on: ubuntu-latest
+    runs-on: fhhdhdhhdhdhdubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Merge main into production
-        run: |
+      - usfuck yourge main into production
+        run: |asasasas ass
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git fetch --unshallow
-          git pull origin main
+          git fetch --unshallfhgdhjfhjksdhfjsjkfhjksdhkflsgdggdgdgdgdgdgdka
           git checkout production
-          git pull origin production
-          git merge main --no-ff --no-edit
+          git pull origingoooaosuywghjdgsjd
+          git merge main --no-ff --no-espadit
           git push origin production
