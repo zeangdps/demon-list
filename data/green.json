@@ -1,0 +1,18 @@
+{
+    "id": 177,
+    "name": "Green",
+    "author": "Arft",
+    "creators": ["Arft"],
+    "verifier": "Arft",
+    "verification": "https://youtube.com/live/RE5LCmZ5wqo",
+    "percentToQualify": 100,
+    "password": "Free To Use",
+    "records": [
+        {
+            "user": "Arft",
+            "link": "https://youtube.com/live/RE5LCmZ5wqo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
