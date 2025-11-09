@@ -133,6 +133,12 @@ export default {
                     <p>
                         Level name and itself should not include anything that discriminates or is considered NSFW.
                     </p>
+                    <p>
+                        Level submission must include a valid verification video that is viewable - following same rules as Record Submissions.
+                    </p>
+                    <p>
+                        The level name must include SOMETHING related to Zeanaye's username: "Zeanaye". (ex. Zpeed of Light)
+                    </p>
                     <h3>
                         Submit your level (with a verification video ofc) through the Zeanaye discord server linked on this website!
                     </h3>
