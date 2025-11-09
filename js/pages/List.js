@@ -98,9 +98,9 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Record Requirements</h3>
                     <p>
-                        Achieved the record using up to 480fps/tps.
+                        Achieved the record using up to 480fps/tps (CBF allowed).
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
@@ -123,6 +123,19 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we will NOT accept records for it no longer.
                     </p>
+                    <h4>
+                        Submit a record through a forum in the Zeanaye discord server, linked on this website!
+                    </h4>
+                    <h3>Level Requirements</h3>
+                    <p>
+                        Must be at least 5 seconds long, and maximum 1 minute long in level length.
+                    </p>
+                    <p>
+                        Level name and itself should not include anything that discriminates or is considered NSFW.
+                    </p>
+                    <h4>
+                        Submit your level (with a verification video ofc) through the Zeanaye discord server linked on this website!
+                    </h4>
                 </div>
             </div>
         </main>
