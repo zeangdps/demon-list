@@ -6,22 +6,22 @@
     },
     {
         "role": "admin",
-        "name": "Cyool",
+        "name": "admin",
         "link": "https://www.youtube.com/@zeanaye"
     },
     {
         "role": "helper",
-        "name": "Arft",
+        "name": "helper",
         "link": "https://www.youtube.com/@zeanaye"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "trial",
         "link": "https://www.youtube.com/@zeanaye"
     },
     {
         "role": "dev",
-        "name": "Zeanaye",
+        "name": "dev",
         "link": "https://www.youtube.com/@zeanaye"
     }
 ]
