@@ -1,0 +1,18 @@
+{
+    "id": 88172786,
+    "name": "Robi",
+    "author": "Robianny",
+    "creators": ["Robianny"],
+    "verifier": "Lcultist",
+    "verification": "https://youtu.be/fDY3Z7VEUng",
+    "percentToQualify": 100,
+    "difficulty": "Beginner",
+    "records": [
+        {
+            "user": "Zeanaye",
+            "link": "https://youtube.com/live/iTsOwgVFycE",
+            "percent": 100,
+            "hz": 100
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "neigefeu",
+    "verification": "https://youtu.be/z6l74Mkoxm8",
+    "percentToQualify": 100,
+    "difficulty": "Beginner",
+    "records": [
+        {
+            "user": "Zeanaye",
+            "link": "https://youtube.com/live/GwnRPSaoDao",
+            "percent": 100,
+            "hz": 100
+        }
+    ]
+}

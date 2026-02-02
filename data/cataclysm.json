@@ -1,0 +1,18 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": ["GgB0y"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/dYt5fp5VGVs",
+    "percentToQualify": 100,
+    "difficulty": "Beginner",
+    "records": [
+        {
+            "user": "Zeanaye",
+            "link": "https://youtu.be/AIUd21nfLhY",
+            "percent": 100,
+            "hz": 100
+        }
+    ]
+}
